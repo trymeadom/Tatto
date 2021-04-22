@@ -1,0 +1,38 @@
+@font-face {
+	font-family: 'Segoe UI' , sans-serif;
+	src: url('../fonts/SegoeUI/');
+	src: local('../fonts/SegoeUI/SegoeUI-Light'), local('SegoeUI-Light'),
+		url('../fonts/SegoeUI/SegoeUI-Light') format('woff');
+	font-weight: 300;
+    font-display: swap;
+}
+@font-face {
+	font-family: 'Segoe UI' , sans-serif;
+	src: url('../fonts/SegoeUI/SegoeUI.woff');
+	src: local('../fonts/SegoeUI/SegoeUI'), local('SegoeUI'),
+		url('../fonts/SegoeUI/SegoeUI.woff') format('woff');
+	font-weight: 400;
+    font-display: swap;
+}
+
+@font-face {
+	font-family: 'Segoe UI' , sans-serif;
+	src: url('../fonts/SegoeUI/SegoeUI-Bold.woff');
+	src: local('../fonts/SegoeUI/SegoeUI-Bold'), local('SegoeUI-Bold'),
+		url('../fonts/SegoeUI/SegoeUI-Bold.woff') format('woff');
+	font-weight: 700;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'aviorte_personal_use_onlyRg';
+    src: url('../fonts/Aviorte/aviorte.woff2') format('woff2'),
+         url('../fonts/Aviorte/aviorte.woff') format('woff');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'alinea_typefaceregular';
+    src: url('../fonts/Alineatypeface/alineatypeface-eldx-webfont.woff2') format('woff2'),
+         url('../fonts/Alineatypeface/alineatypeface-eldx-webfont.woff') format('woff');
+    font-display: swap;
+}
